@@ -1,0 +1,15 @@
+{
+  "name": "npm-and-application-security",
+  "version": "1.0.0",
+  "description": "npm and Application Security",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "4.4"
+  }
+}
